@@ -1,4 +1,4 @@
-# locaNMF-preprocess
+# LocaNMF-preprocess
 
 Preprocesses calcium imaging data to use with [LocaNMF](https://github.com/ikinsella/locaNMF). Read more about this method and the results it provides in our bioRxiv : [Saxena et al., 2019](https://www.biorxiv.org/content/10.1101/650093v1)!
 
